@@ -1,4 +1,4 @@
-{% set version = "1.0.2" %}
+{% set version = "1.0.3" %}
 
 package:
   name: spago
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/spago/-/spago-{{ version }}.tgz
-  sha256: 23a1d8ce5857865843f0f2ca1ee756c0b1f79350ca86396f5ced949b951302ad
+  sha256: c19564dfd1653baf6d458e3727c8849d4ab4b0ab321bd3fa4608058f3c1e9256
 
 build:
   number: 0
